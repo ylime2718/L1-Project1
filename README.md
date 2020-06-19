@@ -1,2 +1,2 @@
 # L1-Project1
-Project to introduce loops
+Project to practice reusing sections of code with loops
